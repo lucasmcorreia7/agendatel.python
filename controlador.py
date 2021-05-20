@@ -2,7 +2,7 @@
 Agenda simples
 '''
 __author__ - 'Lucas Correia'
-__license__= 'UNP'
+__license__= 'BETA'
 __version__= '0.0.1'
 __status__ ='Development'
 
