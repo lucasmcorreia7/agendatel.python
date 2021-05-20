@@ -2,7 +2,7 @@
 Agenda Simples
 '''
 ___Author___= 'Lucas Correia'
-___UNP___='0.0.1'
+___BETA___='0.0.1'
 ___status___ = 'Development'
 
 class Telefone():
