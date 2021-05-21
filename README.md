@@ -3,11 +3,11 @@
 
 > Status: developing⚠️
 
-<h2> - Funções:<h2>
-<h5> - Cadastrar contato;)  ✔️<h5>
-<h5> - Listar contato;)     ✔️<h5>
-<h5> - Selecionar todos os contatos;) ✔️<h5>
-<h5> - Apagar contato;)   ✔️<h5>
+<h2> - Functions:<h2>
+<h5> - Register contact;)  ✔️<h5>
+<h5> - List contact;)     ✔️<h5>
+<h5> - Select all contacts) ✔️<h5>
+<h5> - Delete contact;)   ✔️<h5>
 
  
  <h2> technologies used<h2>
