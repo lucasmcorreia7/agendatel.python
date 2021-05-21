@@ -3,7 +3,7 @@
 
 > Status: developing⚠️
 
-<h2> - Funções:<h2>✔️
+<h2> - Funções:<h2>
 <h5> - Cadastrar contato;)  ✔️<h5>
 <h5> - Listar contato;)     ✔️<h5>
 <h5> - Selecionar todos os contatos;) ✔️<h5>
