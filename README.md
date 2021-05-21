@@ -10,6 +10,6 @@
 <h5> - Delete contact;)   ✔️<h5>
 
  
- <h2> technologies used<h2>
+ <h2> -Technologies used<h2>
 Python 3.95   
   
